@@ -2,7 +2,7 @@
 
 ### 💻 BS Software Engineering Student @ Virtual University of Pakistan (3rd Semester) · Python Developer · ML & Computer Vision Enthusiast
 
-Building projects in Python, Machine Learning, and Computer Vision — and volunteering to help others learn to code.
+Building projects in Python, Machine Learning, and Computer Vision —> and volunteering to help others learn to code.
 
 ---
 
