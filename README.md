@@ -2,9 +2,7 @@
 
 ### 💻 BS Software Engineering Student @ Virtual University of Pakistan (3rd Semester) · Python Developer · AI/ML · GEN-AI 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/madiha-creator/madiha-creator/main/assets/profile-banner-user-sticker.png" width="500"/>
-</p>
+
 
 Building projects in Python, Machine Learning, and Computer Vision —> and volunteering to help others learn to code.
 
