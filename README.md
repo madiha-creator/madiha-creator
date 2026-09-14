@@ -2,7 +2,9 @@
 
 ### 💻 BS Software Engineering Student @ Virtual University of Pakistan (3rd Semester) · Python Developer · AI/ML · GEN-AI 
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/madiha-creator/madiha-creator/main/assets/Gemini_Generated_Image_9eedta9eedta9eed.jpg" width="500"/>
+</p>
 
 Building projects in Python, Machine Learning, and Computer Vision —> and volunteering to help others learn to code.
 
