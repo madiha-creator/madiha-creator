@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Madeha Shah
+# 👋 Hi, I'm MADEHA SHAH
 
 ### 💻 BS Software Engineering Student @ Virtual University of Pakistan (3rd Semester) · Python Developer · ML & Computer Vision Enthusiast
 
@@ -14,9 +14,9 @@ Building projects in Python, Machine Learning, and Computer Vision — and volun
 
 ## 💫 About Me
 
-- 🎓 **BS Software Engineering**, Virtual University of Pakistan — 3rd Semester
+- 🎓 **BS Software Engineering**, Virtual University of Pakistan —> 3rd Semester
 - 🐍 Comfortable building with **Python** and **C++**, with a solid grasp of **OOP** concepts
-- 🤖 Exploring **Machine Learning** — from data pipelines to trained models (NumPy, Pandas, Matplotlib, TensorFlow)
+- 🤖 Exploring **Machine Learning** —> from data pipelines to trained models (NumPy, Pandas, Matplotlib, TensorFlow)
 - 👁️ Getting hands-on with **Computer Vision** (object detection with YOLOv5)
 - 📚 Currently sharpening my **Data Structures & Algorithms (DSA)** and learning **Node.js**
 - 🧑‍🏫 **Volunteer Instructor/TA** for a community Python course, helping beginners learn to code
@@ -59,7 +59,7 @@ Building projects in Python, Machine Learning, and Computer Vision — and volun
 
 ## 🚀 Featured Projects (Solo)
 
-### 👁️ Computer Vision — Object Detection
+### 👁️ Computer Vision [ Object Detection ]
 > Object detection project built with **YOLOv5**, using COCO class labels to identify objects in images/video.
 
 💻 **Source Code:** [COMPUTER-VISION](https://github.com/madiha-creator/COMPUTER-VISION)
@@ -103,7 +103,7 @@ Building projects in Python, Machine Learning, and Computer Vision — and volun
 ---
 
 ### 🛰️ OrbitIQ
-> A personal project — see the repo for details.
+> A personal project —> see the repo for details.
 
 💻 **Source Code:** [OrbitIQ](https://github.com/madiha-creator/OrbitIQ)
 
