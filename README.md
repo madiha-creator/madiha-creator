@@ -1,6 +1,6 @@
 # 👋 Hi, I'm MADEHA SHAH
 
-### 💻 BS Software Engineering Student @ Virtual University of Pakistan (3rd Semester) · Python Developer · ML & Computer Vision Enthusiast
+### 💻 BS Software Engineering Student @ Virtual University of Pakistan (3rd Semester) · Python Developer · AI/ML · GEN-AI 
 
 Building projects in Python, Machine Learning, and Computer Vision —> and volunteering to help others learn to code.
 
