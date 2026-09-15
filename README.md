@@ -175,6 +175,7 @@ Projects where I've contributed as a collaborator alongside other developers:
 ## 📚 Currently Learning
 
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-In%20Progress-FFB000?style=for-the-badge)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/IuEHIo392z/)
 ![Node.js](https://img.shields.io/badge/Node.js-In%20Progress-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
