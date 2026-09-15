@@ -107,12 +107,6 @@ Building projects in Python, Machine Learning, and Computer Vision —> and volu
 
 ---
 
-### 🛰️ OrbitIQ
-> A personal project —> see the repo for details.
-
-💻 **Source Code:** [OrbitIQ](https://github.com/madiha-creator/OrbitIQ)
-
----
 
 ### 🎮 Breakout Game
 > A classic Breakout arcade game implementation.
