@@ -4,9 +4,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8e2de2,100:c9a227&height=200&section=header&text=Madeha%20Shah&fontSize=55&fontColor=fff&fontAlignY=40&desc=Python%20Developer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Computer%20Vision&descAlignY=65&descSize=20" width="100%"/>
 
 <!-- Typing animation -->
-<!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=C9A227&center=true&vCenter=true&width=800&lines=BS+Software+Engineering+%40+VU+Pakistan;Python+%7C+Machine+Learning+%7C+Computer+Vision;Currently+sharpening+DSA+%26+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&duration=7000&color=C9A227&center=true&vCenter=true&width=800&lines=BS+Software+Engineering+%40+VU+Pakistan;Python+%7C+Machine+Learning+%7C+Computer+Vision;Currently+sharpening+DSA+%26+Node.js" alt="Typing SVG" />
 </a>
 
 <br/>
