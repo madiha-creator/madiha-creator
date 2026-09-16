@@ -197,10 +197,6 @@ Helped teach Python fundamentals to beginners as part of a community-run volunte
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madiha-creator&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madiha-creator&layout=compact&theme=radical&hide_border=true" width="40%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=madiha-creator&theme=radical&hide_border=true" width="60%" />
