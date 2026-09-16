@@ -25,31 +25,22 @@ Building projects in Python, Machine Learning, and Computer Vision —> and volu
 
 ---
 
-## 💫 About Me
+💫 About Me
+<table> <tr> <td width="55%" valign="top">
+python
+class MadehaShah:
+    def __init__(self):
+        self.role        = "BS Software Engineering Student | Python Dev"
+        self.university  = "Virtual University of Pakistan"
+        self.building    = ["AI/ML Models", "Computer Vision", "Team Hackathon Projects"]
+        self.learning    = ["Advanced DSA", "Node.js", "Deep Learning"]
+        self.ask_me      = ["Python", "C++", "Machine Learning", "OOP", "YOLOv5"]
+        self.volunteer   = "Instructor/TA @ Community Python Course"
+        self.linkedin    = "linkedin.com/in/madeha-s-4292852ab"
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
-- 🎓 **BS Software Engineering**, Virtual University of Pakistan —> 3rd Semester
-- 🐍 Comfortable building with **Python** and **C++**, with a solid grasp of **OOP** concepts
-- 🤖 Exploring **Machine Learning** —> from data pipelines to trained models (NumPy, Pandas, Matplotlib, TensorFlow)
-- 👁️ Getting hands-on with **Computer Vision** (object detection with YOLOv5)
-- 📚 Currently sharpening my **Data Structures & Algorithms (DSA)** and learning **Node.js**
-- 🧑‍🏫 **Volunteer Instructor/TA** for a community Python course, helping beginners learn to code
-- 🤝 Actively collaborate on team and hackathon projects
-- ⚡ Passionate about technology, programming, and continuous learning
-
-</td>
-<td width="45%">
-
-<img src="https://raw.githubusercontent.com/madiha-creator/madiha-creator/main/assets/Gemini_Generated_Image_9eedta9eedta9eed.jpg" width="100%" style="border-radius:12px"/>
-
-</td>
-</tr>
-</table>
-
----
+    def fun_fact(self):
+        return "I turn raw data into real insights 📊"
+</td> <td width="45%"> <img src="https://raw.githubusercontent.com/madiha-creator/madiha-creator/main/assets/Gemini_Generated_Image_9eedta9eedta9eed.jpg" width="100%" style="border-radius:12px"/> </td> </tr> </table>
 
 ## 🛠️ Tech Stack
 
