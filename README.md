@@ -25,9 +25,13 @@ Building projects in Python, Machine Learning, and Computer Vision —> and volu
 
 ---
 
-💫 About Me
-<table> <tr> <td width="55%" valign="top">
-python
+## 💫 About Me
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+```python
 class MadehaShah:
     def __init__(self):
         self.role        = "BS Software Engineering Student | Python Dev"
@@ -40,7 +44,18 @@ class MadehaShah:
 
     def fun_fact(self):
         return "I turn raw data into real insights 📊"
-</td> <td width="45%"> <img src="https://raw.githubusercontent.com/madiha-creator/madiha-creator/main/assets/Gemini_Generated_Image_9eedta9eedta9eed.jpg" width="100%" style="border-radius:12px"/> </td> </tr> </table>
+```
+
+</td>
+<td width="45%">
+
+<img src="https://raw.githubusercontent.com/madiha-creator/madiha-creator/main/assets/Gemini_Generated_Image_9eedta9eedta9eed.jpg" width="100%" style="border-radius:12px"/>
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🛠️ Tech Stack
 
