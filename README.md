@@ -41,6 +41,7 @@ class MadehaShah:
         self.ask_me      = ["Python", "C++", "Machine Learning", "OOP", "YOLOv5"]
         self.volunteer   = "Instructor/TA @ Community Python Course"
         self.linkedin    = "linkedin.com/in/madeha-s-4292852ab"
+        self.leetcode    = "leetcode.com/u/IuEHIo392z"
 
     def fun_fact(self):
         return "I turn raw data into real insights 📊"
